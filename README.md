@@ -16,8 +16,8 @@ OPTIONS:
     -V, --version    Print version information
 
 SUBCOMMANDS:
-    help       Print this message or the help of the given subcommand(s)
-    install    
-    remove     
-    start      
-    stop     
+    help         Print this message or the help of the given subcommand(s)
+    install      Install an executable as service
+    remove   Remove  service
+    start        Start service
+    stop        Stop service
